@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 public class DSA_Exercise {
+
     /*
      * Exercise 1:
      * Given the following array of strings. String[] input = {1,1,1,1,3,4,5,6,7,7,7,8,8}
